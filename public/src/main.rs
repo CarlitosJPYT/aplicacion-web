@@ -1,1 +1,4 @@
-fn main() {println!("Hola, Mundo!");}
+fn main() {
+    let a = 10;
+    println!("{}", a);
+}
